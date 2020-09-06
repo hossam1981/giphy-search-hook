@@ -40,7 +40,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>Async React Hooks</h2>
+        <h2>Awesome Giphy</h2>
 
         <form onSubmit={onSubmit}>
           <input value={search} onChange={onChange} />
